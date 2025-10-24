@@ -6,4 +6,6 @@ initial commit
 
 29: yes, it is deterministic
 
-30: 
+31: so that its not duplicated
+
+32: I believe a complete array is better as it is simpler
